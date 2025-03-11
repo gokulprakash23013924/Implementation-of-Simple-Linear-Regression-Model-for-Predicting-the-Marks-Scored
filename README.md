@@ -14,7 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 #### 5.Predict the regression for marks by using the representation of the graph. 
 #### 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 ## Program:
-### gokul prakash m(212223240041)
+### gokulprakash m(212223240041)
 ```py
 import pandas as pd
 import numpy as np
@@ -61,20 +61,28 @@ print("RMSE= ",rmse)
 ```
 ## Output:
 ### Dataset
-![output](./images/dataset.png)
+![Screenshot 2025-03-11 133838](https://github.com/user-attachments/assets/2a0480e8-0a95-4208-8f43-d1a6d2cfd480)
+
 ### Head Values
-![output](./images/head.png)
+![Screenshot 2025-03-11 133850](https://github.com/user-attachments/assets/24867ad6-ca28-41f2-adad-c4e7936b7969)
+
 ### Tail Values
-![output](./images/tail.png)
+![Screenshot 2025-03-11 133857](https://github.com/user-attachments/assets/3b57ef67-fc0a-42a0-902a-23e3cb0c9cd3)
+
 ### X and Y values
-![output](./images/xyvalues.png)
+![Screenshot 2025-03-11 133908](https://github.com/user-attachments/assets/b2287ca8-64e0-45ab-b530-c168a2806457)
+
 ### Predication values of X and Y
-![output](./images/predict%20.png)
+![Screenshot 2025-03-11 134055](https://github.com/user-attachments/assets/bd3a6635-b13e-4d6b-9909-ed026dcbe695)
+
 ### MSE,MAE and RMSE
-![output](./images/values.png)
+![Screenshot 2025-03-11 134141](https://github.com/user-attachments/assets/7fd112ba-964a-45c5-8990-025259a0fc7a)
+
 ### Training Set
-![output](./images/train.png)
+![Screenshot 2025-03-11 134117](https://github.com/user-attachments/assets/db577bee-e112-4aaf-bdbb-cdc844be7b6e)
+
 ### Testing Set
-![output](./images/test.png)
+![Screenshot 2025-03-11 134134](https://github.com/user-attachments/assets/529c0a88-8c7b-457f-adf7-7e20c66dfd7c)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
